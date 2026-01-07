@@ -1,4 +1,4 @@
-package com.example.paytrack_lite
+package com.gratis.paytrack
 
 import io.flutter.embedding.android.FlutterActivity
 
